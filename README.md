@@ -1,3 +1,4 @@
 # Shadow-King
-This is my first Git Repository
+This is my first Git Repository.
+<br>
 Aurthor- Bikash Baashyal
